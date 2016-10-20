@@ -1,0 +1,35 @@
+.header-top, .header-center, .header-search, .nav, .small, .product {
+  margin: 0 auto;
+}
+
+.header-center .header-center-left {
+  float: left;
+}
+
+.header-center .header-center-right {
+  float: right;
+}
+
+.header-center-right li {
+  float: left;
+}
+
+.header-search-cart, .header-search-area, .header-logo {
+  float: left;
+}
+
+.header-search-main .img6, .header-search-main #headSearchInput, .header-search-main #headSearchBtn {
+  float: left;
+}
+
+.header-center-left span, a {
+  font-size: 12px;
+  color: #666;
+}
+
+.header-center-right a, span {
+  font-size: 12px;
+  color: #666;
+}
+
+/*# sourceMappingURL=_mixins.css.map */
